@@ -1,0 +1,31 @@
+.form{
+			float: center;
+			position: fixed;
+			vertical-align: middle;
+			left: 40%;
+			text-align: center;
+
+		}
+
+.item{
+			left: 0;
+			bottom: 0;
+			text-align: center;
+}	
+.price{
+	left:0;
+	top:80%;
+}	
+
+.fsAddToCartButton
+{
+	border-top:		2px solid #a3ceda;
+	border-left:		2px solid #a3ceda;
+	border-right:		2px solid #4f6267;
+	border-bottom:		2px solid #4f6267;
+	padding:		10px 20px !important;
+	font-size:		14px !important;
+	background-color:	#c4f1fe;
+	font-weight:		bold;
+	color:			#2d525d;
+}
